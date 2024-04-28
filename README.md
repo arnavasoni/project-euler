@@ -10,3 +10,7 @@
 - **prime: Largest prime factor**
 
   What is the largest prime factor of the number 600851475143?
+
+- **palinprod: Largest Palindrome Product**
+
+  Find the largest palindrome made from the product of two 3-digit numbers.
