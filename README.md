@@ -15,6 +15,6 @@
 
   Find the largest palindrome made from the product of two 3-digit numbers.
   
-  - **smallest_multiple: Smallest multiple**
+- **smallest_multiple: Smallest multiple**
 
   What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
