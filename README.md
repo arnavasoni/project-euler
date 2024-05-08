@@ -26,3 +26,7 @@
 - **prime_10001: 10001st Prime**
 
   Find the 10001'st prime number
+
+- **largest_prod: Largest product in a series**
+
+  Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
