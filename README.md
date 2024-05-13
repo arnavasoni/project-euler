@@ -11,7 +11,7 @@
 
   What is the largest prime factor of the number 600851475143?
 
-- **palinprod: Largest Palindrome Product**
+- **palin_prod: Largest Palindrome Product**
 
   Find the largest palindrome made from the product of two 3-digit numbers.
   
@@ -30,3 +30,11 @@
 - **largest_prod: Largest product in a series**
 
   Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
+
+- **special_py_triplet: Special Pythagorous Triplet**
+
+A Pythagorean triplet is a set of three natural numbers a < b < c, for which a^2 + b^2 = c^2.
+
+There exists exactly one Pythagorean triplet for which a + b + c = 1000
+
+Find a*b*c.
