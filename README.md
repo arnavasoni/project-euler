@@ -46,3 +46,7 @@
 - **larg_grid_prod: Largest Product in a grid**
 
   What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20 x 20 grid?
+
+- **triangular_number: Highly Divisible Triangular Number**
+
+  What is the value of the first triangle number to have over five hundred divisors?
