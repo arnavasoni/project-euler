@@ -50,3 +50,7 @@
 - **triangular_number: Highly Divisible Triangular Number**
 
   What is the value of the first triangle number to have over five hundred divisors?
+
+- **large_sum: **
+
+  Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
