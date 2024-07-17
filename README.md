@@ -54,3 +54,11 @@
 - **large_sum: **
 
   Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+
+- **longest_collatz_sequence: **
+
+  What is the number that can have the longest number of steps in the collatz sequence, under 1 million?
+
+- **2_1000_hack: **
+
+  What is the sum of the digits in 2^1000?
