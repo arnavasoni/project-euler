@@ -62,3 +62,23 @@
 - **2_1000_hack: **
 
   What is the sum of the digits in 2^1000?
+
+- **num_letter_counts: **
+
+  How many letters are there for the words 1 (one) to 1000 (one thousand)?
+
+- **max_path_sum: **
+
+Find the maximum total from top to bottom of the triangle.
+
+- **counting_sundays: **
+
+1 Jan 1900 was a Monday. Thirty days has September, April, June and November. All the rest have thirty-one, Saving February alone, Which has twenty-eight, rain or shine. And on leap years, twenty-nine. A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400. How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
+
+- **fact_100_dig_sum: **
+
+Find the sum of the digits in the number 100!
+
+- **amicable: **
+
+amicable numbers, in mathematics, a pair of integers in which each is the sum of the divisors of the other.
