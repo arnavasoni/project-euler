@@ -82,3 +82,11 @@
 - **amicable:**
 
   amicable numbers, in mathematics, a pair of integers in which each is the sum of the divisors of the other.
+
+- **names_scores:**
+
+  What is the total of all the name scores in the file?
+
+- **non_abundant:**
+
+  A perfect number is a number for which the sum of its proper divisors is exactly equal to the number....Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
