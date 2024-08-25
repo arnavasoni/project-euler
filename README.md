@@ -92,7 +92,9 @@
   A perfect number is a number for which the sum of its proper divisors is exactly equal to the number....Find the sum of all the positive integers which cannot be written as the sum of two abundant numbers.
 
 - **non_abundant:**
+
   What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
 
 - **1000_fibo:**
+
   What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
