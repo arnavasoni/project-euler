@@ -98,3 +98,9 @@
 - **1000_fibo:**
 
   What is the index of the first term in the Fibonacci sequence to contain 1000 digits?
+
+- **recurring_cycles:**
+  Find the value of d for which 1/d contains the longest recurring cycle in its decimal fraction part.
+
+- **quad_primes:**
+  Incomplete. Just created the function to check if the number is prime or not.
