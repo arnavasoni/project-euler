@@ -104,3 +104,6 @@
 
 - **quad_primes:**
   Incomplete. Just created the function to check if the number is prime or not.
+
+- **num_spiral_diag:**
+  What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed in the same way?
