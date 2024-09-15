@@ -134,3 +134,6 @@
   There are exactly four non-trivial examples of this type of fraction, less than one in value, and containing two digits in the numerator and denominator.
 
   If the product of these four fractions is given in its lowest common terms, find the value of the denominator.
+
+- **34. digit_factorials:**
+  Find the sum of all numbers which are equal to the sum of the factorial of their digits. 1! = 1 and 2! = 2 are not sums so not included.
