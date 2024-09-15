@@ -140,3 +140,8 @@
 
 - **35. circular_primes:**
   Find how many circular primes exist below a given number (in the original problem this limit is 1 million). A circular prime is a prime number that remains prime under all rotations of its digits. For example, 197 is a circular prime because 197, 971, and 719 are all prime.
+
+- **36. double_base_palindrome:**
+  The decimal number, 585 = 1001001001_2 (binary), is palindromic in both bases.
+  
+  Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2. (Note that the palindromic number, in either base, may not include leading zeros.) 
