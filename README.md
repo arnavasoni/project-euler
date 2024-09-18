@@ -150,3 +150,8 @@
   The number 3797 has an interesting property. Being prime itself, it is possible to continuously remove digits from left to right, and remain prime at each stage: 3797, 797, 97, and 7. Similarly we can work from right to left: 3797, 379, 37, and 3.
   Find the sum of the only eleven primes that are both truncatable from left to right and right to left.
   Note 2, 3, 5, and 7 are not considered to be truncatable primes.
+
+- **39. int_rit_tri:**
+  If p is the perimeter of a right angle triangle with integral length sides, a, b, c, there are exactly three solutions for p=120.
+  {20,48,52},{24,45,51},{30,40,50}
+  For which value of p ≤ 1000, is the number of solutions maximised?
